@@ -9,7 +9,7 @@ A simple, interactive stopwatch web app built using HTML, CSS, and JavaScript.
 - Clean and responsive UI
 
 # Demo
-Live Demo: [https://yourusername.github.io/stopwatch-app](https://yourusername.github.io/stopwatch-app)
+Live Demo: [https://VidhiShah14.github.io/stopwatch-app](https://yourusername.github.io/stopwatch-app)
 
  # Tech Stack
 - HTML
